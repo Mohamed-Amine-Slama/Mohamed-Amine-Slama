@@ -1,91 +1,155 @@
 <div align="center">
 
-# Mohamed Amine Slama
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&duration=3000&pause=1200&color=F7D046&center=true&vCenter=true&width=700&lines=MOHAMED+AMINE+SLAMA;RW+%C2%B7+MEZZALA+%C2%B7+JAVASCRIPT;FIRST-TEAM+READY" alt="Typing SVG" />
 
-**Software Engineer** — building relentlessly, shipping consistently
+<br>
 
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
+![Rating](https://img.shields.io/badge/OVR-78_GOLD-F7D046?style=for-the-badge&labelColor=0d0d1a)
+![Position](https://img.shields.io/badge/POS-RW-F7D046?style=for-the-badge&labelColor=0d0d1a)
+![Style](https://img.shields.io/badge/STYLE-RELENTLESS-F7D046?style=for-the-badge&labelColor=0d0d1a)
+
+</div>
+
+<p align="center">
+<em>"If we can do it wonderful — if we can't, let's fail in the most beautiful way."</em>
+</p>
+
+<p align="center">✦ ✦ ✦</p>
+
+<br>
+
+<table align="center">
+<tr>
+<td valign="top" width="33%">
+
+### Attributes
+
+| | |
+|---|---|
+| Skill Moves | ★★★★★ |
+| Weak Foot | ★★★★☆ |
+| Work Rate | High / Med |
+| Style | Relentless |
+
+</td>
+<td valign="top" width="34%" align="center">
+
+### Card Stats
+
+```
+ 84 PAC   │  76 DRI
+ 76 SHO   │  52 DEF
+ 67 PAS   │  86 PHY
+```
+
+</td>
+<td valign="top" width="33%">
+
+### Playstyles
+
+- 🔁 Rapid Fire
+- ⚡ Workhorse
+- ♾️ Marathoner
+- 📦 Prolific
+- 🌐 Polyglot
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Scouting Report
+
+I'm a full-stack developer working across JavaScript, Python, and C/C++/Java, with a growing focus on security tooling — building AI-assisted pentesting platforms alongside standard web development. 7+ languages, 11k+ commits, and counting. The 78 OVR isn't a ceiling — it's a build in progress, and every stat above updates as the work does.
+
+- 🔭 Currently building AI-powered web application security tools
+- 🌱 Leveling up PAS and DEF — deepening backend architecture & offensive security skills
+- 🤝 Open to first-team call-ups (collabs, open source, side projects)
+- 📫 Scout me via the links below
+
+<br>
+
+## Scouting Metrics
+
+<div align="center">
+
+![Commits](https://img.shields.io/badge/Commits-11k-F7D046?style=for-the-badge&labelColor=0d0d1a)
+![Stars](https://img.shields.io/badge/Stars_Earned-201-F7D046?style=for-the-badge&labelColor=0d0d1a)
+![Followers](https://img.shields.io/badge/Followers-14-F7D046?style=for-the-badge&labelColor=0d0d1a)
+![Languages](https://img.shields.io/badge/Languages-7-F7D046?style=for-the-badge&labelColor=0d0d1a)
+![Active Days](https://img.shields.io/badge/Active_Days-266-F7D046?style=for-the-badge&labelColor=0d0d1a)
+
+**Top 0.44% of GitHub** &nbsp;·&nbsp; **Top 2.8% of active devs** &nbsp;·&nbsp; **3 years on the pitch**
 
 </div>
 
 <br>
-
-> *"If we can do it wonderful — if we can't, let's fail in the most beautiful way."*
-
-<br>
-
-## About
-
-I'm a full-stack developer with a focus on JavaScript/TypeScript ecosystems, currently active across 7+ languages and shipping code consistently — 11k+ commits and counting. I care about clean architecture, developer experience, and building things that hold up under real usage.
-
-- 🔭 Currently building projects in JavaScript & TypeScript
-- 🌱 Deepening my knowledge of system design and backend architecture
-- 🤝 Open to collaborating on open-source and side projects
-- 📫 Reach me via the links above
 
 ## Tech Stack
 
 <div align="center">
 
-**Languages**
-<br>
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**Frameworks & Libraries**
-<br>
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-
-**Tools & Platforms**
-<br>
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-*Swap these for your actual stack — they're placeholders.*
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Expo](https://img.shields.io/badge/-Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
 </div>
 
-## Featured Projects
+<br>
+
+## Featured Repos
 
 <div align="center">
 
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-Amine-Slama&repo=REPO_ONE&theme=default&hide_border=true" width="48%" />
+<a href="https://github.com/Mohamed-Amine-Slama/AI-pentester-for-web-applications">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-Amine-Slama&repo=AI-pentester-for-web-applications&theme=dark&hide_border=true&bg_color=0d0d1a&title_color=F7D046&icon_color=F7D046" width="48%" />
 </a>
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-Amine-Slama&repo=REPO_TWO&theme=default&hide_border=true" width="48%" />
+<a href="https://github.com/Mohamed-Amine-Slama/Pentest-platform">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-Amine-Slama&repo=Pentest-platform&theme=dark&hide_border=true&bg_color=0d0d1a&title_color=F7D046&icon_color=F7D046" width="48%" />
 </a>
 
-*Replace `REPO_ONE` / `REPO_TWO` with your actual repository names to pin your best work here.*
-
 </div>
 
-## GitHub Activity
+<br>
+
+## Live Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Amine-Slama&show_icons=true&theme=default&hide_border=true&title_color=222222&icon_color=555555&text_color=333333" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Amine-Slama&layout=compact&theme=default&hide_border=true&title_color=222222&text_color=333333" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Amine-Slama&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d1a&title_color=F7D046&icon_color=F7D046&text_color=e0e0e0" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Amine-Slama&layout=compact&theme=dark&hide_border=true&bg_color=0d0d1a&title_color=F7D046&text_color=e0e0e0" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Amine-Slama&theme=default&hide_border=true&ring=555555&fire=555555&currStreakLabel=333333" width="60%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Amine-Slama&theme=dark&hide_border=true&background=0d0d1a&ring=F7D046&fire=F7D046&currStreakLabel=F7D046" width="60%" />
+
+</div>
+
+<br>
+
+## Connect
+
+<div align="center">
+
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-F7D046?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
 <br>
 
 <div align="center">
-
-<sub>Thanks for stopping by — feel free to explore my repositories or reach out.</sub>
-
+<sub>⭐ from <a href="https://github.com/Mohamed-Amine-Slama">Mohamed-Amine-Slama</a> — first-team ready.</sub>
 </div>
