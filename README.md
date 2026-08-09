@@ -61,7 +61,7 @@
 
 ## Scouting Report
 
-I'm a full-stack developer working across JavaScript, Python, and C/C++/Java, with a growing focus on security tooling — building AI-assisted pentesting platforms alongside standard web development. 7+ languages, 11k+ commits, and counting. The 78 OVR isn't a ceiling — it's a build in progress, and every stat above updates as the work does.
+I'm a full-stack developer working across JavaScript, Python, and C/C++/Java, with a growing focus on security tooling, building AI-assisted pentesting platforms alongside standard web development. 7+ languages, 11k+ commits, and counting. The 78 OVR isn't a ceiling, it's a build in progress, and every stat above updates as the work does.
 
 - 🔭 Currently building AI-powered web application security tools
 - 🌱 Leveling up PAS and DEF, deepening backend architecture & offensive security skills
