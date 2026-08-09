@@ -1,12 +1,15 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&duration=3000&pause=1200&color=F7D046&center=true&vCenter=true&width=700&lines=MOHAMED+AMINE+SLAMA;RW+%C2%B7+MEZZALA+%C2%B7+JAVASCRIPT;FIRST-TEAM+READY" alt="Typing SVG" />
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0d0d1a&height=180&section=header&text=MOHAMED%20AMINE%20SLAMA&fontSize=42&fontColor=F7D046&animation=fadeIn&fontAlignY=40)
+
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&duration=3000&pause=1200&color=F7D046&center=true&vCenter=true&width=700&lines=RW+%C2%B7+MEZZALA+%C2%B7+JAVASCRIPT;FIRST-TEAM+READY;AI-POWERED+PENTESTING" alt="Typing SVG" />
 
 <br>
 
 ![Rating](https://img.shields.io/badge/OVR-78_GOLD-F7D046?style=for-the-badge&labelColor=0d0d1a)
 ![Position](https://img.shields.io/badge/POS-RW-F7D046?style=for-the-badge&labelColor=0d0d1a)
 ![Style](https://img.shields.io/badge/STYLE-RELENTLESS-F7D046?style=for-the-badge&labelColor=0d0d1a)
+![Visitors](https://komarev.com/ghpvc/?username=Mohamed-Amine-Slama&style=for-the-badge&color=F7D046&labelColor=0d0d1a&label=SCOUTED)
 
 </div>
 
@@ -61,12 +64,12 @@
 
 ## Scouting Report
 
-I'm a full-stack developer working across JavaScript, Python, and C/C++/Java, with a growing focus on security tooling, building AI-assisted pentesting platforms alongside standard web development. 7+ languages, 11k+ commits, and counting. The 78 OVR isn't a ceiling, it's a build in progress, and every stat above updates as the work does.
+I'm a full-stack developer working across JavaScript, Python, and C/C++/Java, with a growing focus on security tooling: building AI-assisted pentesting platforms alongside standard web development. 7+ languages, 11k+ commits, and counting. The 78 OVR isn't a ceiling, it's a build in progress, and every stat above updates as the work does.
 
 - 🔭 Currently building AI-powered web application security tools
-- 🌱 Leveling up PAS and DEF, deepening backend architecture & offensive security skills
+- 🌱 Leveling up PAS and DEF: deepening backend architecture & offensive security skills
 - 🤝 Open to first-team call-ups (collabs, open source, side projects)
-- 📫 Scout me via the links in my profile
+- 📫 Scout me via the links below
 
 <br>
 
@@ -81,6 +84,10 @@ I'm a full-stack developer working across JavaScript, Python, and C/C++/Java, wi
 ![Active Days](https://img.shields.io/badge/Active_Days-266-F7D046?style=for-the-badge&labelColor=0d0d1a)
 
 **Top 0.44% of GitHub** &nbsp;·&nbsp; **Top 2.8% of active devs** &nbsp;·&nbsp; **3 years on the pitch**
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Mohamed-Amine-Slama&theme=dark&no-frame=true&column=4&margin-w=8&margin-h=8&title.color=F7D046&text.color=e0e0e0&icon.color=F7D046&background=0d0d1a" width="90%" />
 
 </div>
 
@@ -109,6 +116,39 @@ I'm a full-stack developer working across JavaScript, Python, and C/C++/Java, wi
 
 <br>
 
+## Match Focus
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**🛡️ AI Pentester for Web Applications**
+<br>
+AI-assisted tool for automating web application penetration testing, combining traditional scanning techniques with AI-driven vulnerability analysis.
+<br><br>
+[View Repo →](https://github.com/Mohamed-Amine-Slama/AI-pentester-for-web-applications)
+
+</td>
+<td width="50%" valign="top">
+
+**🛡️ Pentest Platform**
+<br>
+A platform built to streamline and centralize penetration testing workflows for web applications.
+<br><br>
+[View Repo →](https://github.com/Mohamed-Amine-Slama/Pentest-platform)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-Amine-Slama&repo=AI-pentester-for-web-applications&theme=dark&hide_border=true&bg_color=0d0d1a&title_color=F7D046&icon_color=F7D046" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-Amine-Slama&repo=Pentest-platform&theme=dark&hide_border=true&bg_color=0d0d1a&title_color=F7D046&icon_color=F7D046" width="48%" />
+
+</div>
+
+<br>
 
 ## Live Stats
 
@@ -130,12 +170,12 @@ I'm a full-stack developer working across JavaScript, Python, and C/C++/Java, wi
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-F7D046?style=for-the-badge&logo=vercel&logoColor=black" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:mohamedamineslama17@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
 <br>
 
 <div align="center">
-<sub>⭐ from <a href="https://github.com/Mohamed-Amine-Slama">Mohamed-Amine-Slama</a> — first-team ready.</sub>
+<sub>⭐ from <a href="https://github.com/Mohamed-Amine-Slama">Mohamed-Amine-Slama</a>, first-team ready.</sub>
 </div>
