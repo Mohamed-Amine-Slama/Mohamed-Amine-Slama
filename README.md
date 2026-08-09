@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-<em>"If we can do it wonderful — if we can't, let's fail in the most beautiful way."</em>
+<em>"If we can do it wonderful, if we can't, let's fail in the most beautiful way."</em>
 </p>
 
 <p align="center">✦ ✦ ✦</p>
@@ -64,9 +64,9 @@
 I'm a full-stack developer working across JavaScript, Python, and C/C++/Java, with a growing focus on security tooling — building AI-assisted pentesting platforms alongside standard web development. 7+ languages, 11k+ commits, and counting. The 78 OVR isn't a ceiling — it's a build in progress, and every stat above updates as the work does.
 
 - 🔭 Currently building AI-powered web application security tools
-- 🌱 Leveling up PAS and DEF — deepening backend architecture & offensive security skills
+- 🌱 Leveling up PAS and DEF, deepening backend architecture & offensive security skills
 - 🤝 Open to first-team call-ups (collabs, open source, side projects)
-- 📫 Scout me via the links below
+- 📫 Scout me via the links in my profile
 
 <br>
 
@@ -109,20 +109,6 @@ I'm a full-stack developer working across JavaScript, Python, and C/C++/Java, wi
 
 <br>
 
-## Featured Repos
-
-<div align="center">
-
-<a href="https://github.com/Mohamed-Amine-Slama/AI-pentester-for-web-applications">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-Amine-Slama&repo=AI-pentester-for-web-applications&theme=dark&hide_border=true&bg_color=0d0d1a&title_color=F7D046&icon_color=F7D046" width="48%" />
-</a>
-<a href="https://github.com/Mohamed-Amine-Slama/Pentest-platform">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-Amine-Slama&repo=Pentest-platform&theme=dark&hide_border=true&bg_color=0d0d1a&title_color=F7D046&icon_color=F7D046" width="48%" />
-</a>
-
-</div>
-
-<br>
 
 ## Live Stats
 
