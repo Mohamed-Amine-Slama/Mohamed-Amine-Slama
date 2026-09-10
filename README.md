@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- Header Banner / Typing SVG -->
+  <!-- Typing SVG Banner -->
   <a href="https://github.com/mohamed-amine-slama">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&height=50&lines=Cybersecurity+Researcher+%26+AI+Pentester;Full-Stack+Developer+%26+Open+Source+Maintainer;Building+Intelligent+Security+Tools" alt="Typing Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&height=50&lines=Cybersecurity+Researcher+%26+AI+Pentester;Full-Stack+Developer+%26+Open+Source+Maintainer;Building+Intelligent+Security+Tools" alt="Typing Banner" />
   </a>
 
   <p align="center">
@@ -11,15 +11,12 @@
 
   <!-- GitSkins Animated System Scan -->
   <p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/system-scan?username=mohamed-amine-slama&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F143910977%3Fu%3Dd68ece81893d6c82aa955760537b834e726350c2%26v%3D4&style=terminal&v=oss-system-scan-1&mode=light" />
-      <img src="https://www.gitskins.com/api/section/system-scan?username=mohamed-amine-slama&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F143910977%3Fu%3Dd68ece81893d6c82aa955760537b834e726350c2%26v%3D4&style=terminal&v=oss-system-scan-1&mode=dark" width="860" alt="mohamed-amine-slama maintainer system scan" />
-    </picture>
+    <img src="https://www.gitskins.com/api/section/system-scan?username=mohamed-amine-slama&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F143910977%3Fu%3Dd68ece81893d6c82aa955760537b834e726350c2%26v%3D4&style=terminal&v=oss-system-scan-1" width="100%" alt="System Scan" />
   </p>
 
-  <!-- Badge Quick Info -->
+  <!-- Status Badges -->
   <p align="center">
-    <img src="https://img.shields.io/badge/Focus-AI%20Security%20%26%20Pentesting-00F0FF?style=for-the-badge&logo=shieldcheck&logoColor=black" alt="Focus" />
+    <img src="https://img.shields.io/badge/Focus-AI%20Security%20%26%20Pentesting-00F0FF?style=for-the-badge&logo=security&logoColor=black" alt="Focus" />
     <img src="https://img.shields.io/badge/Agency-LavanDev-00FF66?style=for-the-badge&logo=vercel&logoColor=black" alt="Agency" />
     <img src="https://img.shields.io/badge/Status-Building%20in%20Public-FF0055?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
   </p>
@@ -50,7 +47,7 @@ Securing web infrastructure and building AI-driven cybersecurity tools. I specia
 ### 🔒 Security & AI Pentesting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![AI Pentesting](https://img.shields.io/badge/AI%20Pentesting-00F0FF?style=for-the-badge&logo=openai&logoColor=black)
-![Vulnerability Scanning](https://img.shields.io/badge/Vulnerability%20Scan-FF0055?style=for-the-badge&logo=bugcrowd&logoColor=white)
+![Vulnerability Scanning](https://img.shields.io/badge/Vulnerability%20Scan-FF0055?style=for-the-badge&logo=security&logoColor=white)
 ![Linux / UNIX](https://img.shields.io/badge/Linux_Kernel_-_UNIX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![IPSec / VPN](https://img.shields.io/badge/IPSec%20VPN-00599C?style=for-the-badge&logo=c&logoColor=white)
 
@@ -65,12 +62,9 @@ Securing web infrastructure and building AI-driven cybersecurity tools. I specia
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<!-- GitSkins Stack Section -->
+<!-- GitSkins Technology Stack -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=mohamed-amine-slama&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F143910977%3Fu%3Dd68ece81893d6c82aa955760537b834e726350c2%26v%3D4&style=terminal&v=oss-stack-1&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stack?username=mohamed-amine-slama&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F143910977%3Fu%3Dd68ece81893d6c82aa955760537b834e726350c2%26v%3D4&style=terminal&v=oss-stack-1&mode=dark" width="100%" alt="mohamed-amine-slama open-source technology toolbox" />
-  </picture>
+  <img src="https://www.gitskins.com/api/section/stack?username=mohamed-amine-slama&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F143910977%3Fu%3Dd68ece81893d6c82aa955760537b834e726350c2%26v%3D4&style=terminal&v=oss-stack-1" width="100%" alt="Technology Stack" />
 </p>
 
 <hr />
@@ -126,12 +120,9 @@ Custom VPN tunnel implementation based on the IPSec protocol built directly for 
 </tr>
 </table>
 
-<!-- GitSkins Projects Embed -->
+<!-- GitSkins Featured Repositories -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=mohamed-amine-slama&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F143910977%3Fu%3Dd68ece81893d6c82aa955760537b834e726350c2%26v%3D4&repos=mohamed-amine-slama%2FAI-pentester-for-web-applications%2Cmohamed-amine-slama%2Fvulnscan-ai%2Cmohamed-amine-slama%2FPentest-platform%2Cmohamed-amine-slama%2FIDE-Portfolio%2Cmohamed-amine-slama%2FVPN-Based-On-IPSec-On-UNIX&v=oss-projects-1&mode=light" />
-    <img src="https://www.gitskins.com/api/section/projects?username=mohamed-amine-slama&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F143910977%3Fu%3Dd68ece81893d6c82aa955760537b834e726350c2%26v%3D4&repos=mohamed-amine-slama%2FAI-pentester-for-web-applications%2Cmohamed-amine-slama%2Fvulnscan-ai%2Cmohamed-amine-slama%2FPentest-platform%2Cmohamed-amine-slama%2FIDE-Portfolio%2Cmohamed-amine-slama%2FVPN-Based-On-IPSec-On-UNIX&v=oss-projects-1&mode=dark" width="860" alt="mohamed-amine-slama maintainer repositories" />
-  </picture>
+  <img src="https://www.gitskins.com/api/section/projects?username=mohamed-amine-slama&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F143910977%3Fu%3Dd68ece81893d6c82aa955760537b834e726350c2%26v%3D4&repos=mohamed-amine-slama%2FAI-pentester-for-web-applications%2Cmohamed-amine-slama%2Fvulnscan-ai%2Cmohamed-amine-slama%2FPentest-platform%2Cmohamed-amine-slama%2FIDE-Portfolio%2Cmohamed-amine-slama%2FVPN-Based-On-IPSec-On-UNIX&v=oss-projects-1" width="100%" alt="Featured Repositories" />
 </p>
 
 <hr />
@@ -145,17 +136,11 @@ Custom VPN tunnel implementation based on the IPSec protocol built directly for 
   </p>
 
   <p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=mohamed-amine-slama&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F143910977%3Fu%3Dd68ece81893d6c82aa955760537b834e726350c2%26v%3D4&style=terminal&v=oss-stats-1&mode=light" />
-      <img src="https://www.gitskins.com/api/section/stats?username=mohamed-amine-slama&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F143910977%3Fu%3Dd68ece81893d6c82aa955760537b834e726350c2%26v%3D4&style=terminal&v=oss-stats-1&mode=dark" width="100%" alt="mohamed-amine-slama open-source signal" />
-    </picture>
+    <img src="https://www.gitskins.com/api/section/stats?username=mohamed-amine-slama&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F143910977%3Fu%3Dd68ece81893d6c82aa955760537b834e726350c2%26v%3D4&style=terminal&v=oss-stats-1" width="100%" alt="Open Source Signal" />
   </p>
 
   <p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=mohamed-amine-slama&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F143910977%3Fu%3Dd68ece81893d6c82aa955760537b834e726350c2%26v%3D4&v=oss-heatmap-1&mode=light" />
-      <img src="https://www.gitskins.com/api/section/heatmap?username=mohamed-amine-slama&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F143910977%3Fu%3Dd68ece81893d6c82aa955760537b834e726350c2%26v%3D4&style=terminal&v=oss-heatmap-1&mode=dark" width="100%" alt="mohamed-amine-slama contribution trail" />
-    </picture>
+    <img src="https://www.gitskins.com/api/section/heatmap?username=mohamed-amine-slama&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F143910977%3Fu%3Dd68ece81893d6c82aa955760537b834e726350c2%26v%3D4&style=terminal&v=oss-heatmap-1" width="100%" alt="Contribution Trail" />
   </p>
 </div>
 
@@ -164,6 +149,10 @@ Custom VPN tunnel implementation based on the IPSec protocol built directly for 
 ## 🤝 Connect & Collaborate
 
 <div align="center">
+
+  <p align="center">
+    <img src="https://www.gitskins.com/api/section/social?username=mohamed-amine-slama&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F143910977%3Fu%3Dd68ece81893d6c82aa955760537b834e726350c2%26v%3D4&v=oss-social-1" width="100%" alt="Social Links" />
+  </p>
 
   <a href="https://github.com/mohamed-amine-slama">
     <img src="https://img.shields.io/badge/GitHub-mohamed--amine--slama-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
