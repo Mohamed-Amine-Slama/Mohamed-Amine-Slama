@@ -158,8 +158,8 @@ Custom VPN tunnel implementation based on the IPSec protocol built directly for 
     <img src="https://img.shields.io/badge/GitHub-mohamed--amine--slama-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
-  <a href="https://lavandev-agency.vercel.app">
-    <img src="https://img.shields.io/badge/Website-lavandev--agency.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
+  <a href="https://www.lavandev.com">
+    <img src="https://img.shields.io/badge/Website-lavandev--agency.vercel.ap-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
   </a>
 
   <br/><br/>
