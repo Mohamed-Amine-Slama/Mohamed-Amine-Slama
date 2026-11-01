@@ -34,7 +34,7 @@
 Securing web infrastructure and building AI-driven cybersecurity tools. I specialize in autonomous web penetration testing, vulnerability scanning engines, and modern full-stack web applications.
 
 - 🛡️ **Focus Area**: AI-Assisted Penetration Testing, Web Security Auditing & Vulnerability Intelligence.
-- 🚀 **Founder / Lead at**: [LavanDev Agency](https://lavandev-agency.vercel.app)
+- 🚀 **Founder / Lead at**: [LavanDev Agency](https://www.lavandev.com)
 - 💻 **Tech Core**: Python, TypeScript, React, Next.js, Node.js, Linux Systems & Networking.
 - 📬 **Get in touch**: Open for collaborations on open-source security tools and innovative full-stack builds.
 
